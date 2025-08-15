@@ -1,4 +1,4 @@
-# dice-game-data-processing
+# Dice Game Comprehensive Data Analytics Application
 
 This project is a comprehensive ETL (Extract, Transform, Load) pipeline for processing and analyzing data from a dice game application, designed to provide robust analytics on user activities, payments, and sessions. It supports both registered and unregistered players and offers detailed insights by platform and payment behavior.
 
@@ -19,8 +19,8 @@ git clone <repository-url>
 cd dice-game-data-processing
 
 pip install -r requirements.txt
-- *This will print out key analytics
+- **This will print out key analytics:**
 python main.py
-- *This will run automated pytests
+- **This will run automated pytests:**
 pytest tests/test_etl_pipeline_pytest.py
 
