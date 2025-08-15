@@ -1,0 +1,4 @@
+status_code,status_name,french_description,status_id
+COMPLETED,Session completed,Session terminée,1
+ABORTED,Session aborted,Session interrompue,2
+TIMEOUT,Session timeout,Délai d'expiration de la session,3
