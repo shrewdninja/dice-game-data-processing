@@ -1,6 +1,6 @@
 # Dice Game Comprehensive Data Analytics Application
 
-This project is a comprehensive ETL (Extract, Transform, Load) pipeline for processing and analyzing data from a dice game application, designed to provide robust analytics on user activities, payments, and sessions. It supports both registered and unregistered players and offers detailed insights by platform and payment behavior.
+This project is created for processing and analyzing data from a dice game application, designed to provide key analytics on user activities, payments, and sessions. It supports both registered and unregistered players and offers detailed insights by platform and payment behavior.
 
 ## Overview
 - **Objective**: Derive key insights from given data to predict the growth for 2025.
